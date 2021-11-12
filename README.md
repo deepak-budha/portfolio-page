@@ -1,2 +1,2 @@
-# portfolio-webpage
+# portfolio-page
 Personal Portolio webpage
